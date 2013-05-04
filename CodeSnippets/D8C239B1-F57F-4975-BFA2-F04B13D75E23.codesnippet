@@ -17,6 +17,8 @@
 	<string>D8C239B1-F57F-4975-BFA2-F04B13D75E23</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>shortcut:bl_dealloc</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>bl dealloc</string>
 	<key>IDECodeSnippetUserSnippet</key>

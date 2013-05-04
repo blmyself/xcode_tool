@@ -23,7 +23,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>bl shared instance</string>
+	<string>shortcut:bl_sharedInstance</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>bl Shared Instance</string>
 	<key>IDECodeSnippetUserSnippet</key>

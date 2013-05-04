@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>bl property declaration - strong</string>
+	<string>shortcut:bl_strong</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>bl property declaration - strong</string>
 	<key>IDECodeSnippetUserSnippet</key>

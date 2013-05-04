@@ -22,7 +22,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>bl Notification sample</string>
+	<string>shortcut:bl_notification</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>bl Notification sample</string>
 	<key>IDECodeSnippetUserSnippet</key>

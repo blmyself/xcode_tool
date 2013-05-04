@@ -18,7 +18,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>bl init code</string>
+	<string>shortcut:bl_init</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>bl init code</string>
 	<key>IDECodeSnippetUserSnippet</key>

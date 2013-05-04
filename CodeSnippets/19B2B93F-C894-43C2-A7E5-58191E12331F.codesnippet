@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>dispatch in background</string>
+	<string>shortcut:bl_disinback</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>dispatch in background</string>
 	<key>IDECodeSnippetUserSnippet</key>

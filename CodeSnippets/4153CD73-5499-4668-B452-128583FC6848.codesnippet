@@ -14,6 +14,8 @@
 	<string>4153CD73-5499-4668-B452-128583FC6848</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>shortcut:bl_pm</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>bl Pragma mark</string>
 	<key>IDECodeSnippetUserSnippet</key>

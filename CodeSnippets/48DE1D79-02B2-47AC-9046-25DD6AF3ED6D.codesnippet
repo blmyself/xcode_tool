@@ -3,23 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>dox</string>
+	<string>bl_dox</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>/**
+ *@brief &lt;#description#&gt;
  *
+ *@param &lt;#parameters#&gt;
  *
- *
+ *@return &lt;#returns#&gt;
  */</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>48DE1D79-02B2-47AC-9046-25DD6AF3ED6D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>shortcut:bl_dox</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ELC Comment</string>
+	<string>bl Comment</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

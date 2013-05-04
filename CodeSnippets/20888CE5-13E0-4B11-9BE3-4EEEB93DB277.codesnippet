@@ -65,7 +65,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>bl Macro Utils</string>
+	<string>shortcut:bl_macro_utils</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>bl Macro Utils</string>
 	<key>IDECodeSnippetUserSnippet</key>
